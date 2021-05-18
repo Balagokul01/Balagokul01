@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balagokul01
-- 👀 I’m interested in understanding technology's 
+- 👀 I’m interested in understanding technology
 - 🌱 I’m currently learning data science, cybersecurity and current technologies 
 - 💞️ I’m looking to collaborate on any coding community 
 - 📫 How to reach me : message me on LinkedIn https://www.linkedin.com/in/balagokul-nadar-906597203
